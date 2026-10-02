@@ -1,0 +1,7 @@
+<resources>
+    <color name="jili_bg">#0B1020</color>
+    <color name="jili_card">#151C31</color>
+    <color name="jili_accent">#7C5CFF</color>
+    <color name="jili_text">#F4F6FF</color>
+    <color name="jili_muted">#AAB2CC</color>
+</resources>

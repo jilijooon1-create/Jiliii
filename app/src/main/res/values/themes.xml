@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Jili" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/jili_bg</item>
+        <item name="android:navigationBarColor">@color/jili_bg</item>
+        <item name="android:colorAccent">@color/jili_accent</item>
+    </style>
+</resources>
